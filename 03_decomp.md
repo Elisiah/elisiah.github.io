@@ -4,4 +4,8 @@ title: Decomp
 permalink: /n64/
 ---
 
-<p>Test text</p>
+<ul>
+{% for post in site.categories.Decompilation %}
+    <li><a href="{{ post.url }}">{{ post.title }}</a></li>
+{% endfor %}
+</ul>
