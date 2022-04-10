@@ -17,7 +17,7 @@ This is a site to endlessly talk about the projects I have been working on!
 I work as a member of a small team of 4 called [Jump King Plus](https://phoenixx19.github.io/JumpKingPlus/)
  to create new updates for the game [Jump King](https://store.steampowered.com/app/1061090/Jump_King/).
 The mod and updates are officially endorsed by Nexile (the creators of Jump King). Our mod collection currently
-has been downloaded over 20,000 times. JK+: ![](https://img.shields.io/github/downloads/Phoenixx19/JumpKingPlus/total?style=flat-square)
+has been downloaded over 20,000 times. JK+: ![](https://img.shields.io/github/downloads/JumpKingPlus/JumpKingPlus/total?style=flat-square)
 
 <h1><a href="/n64/">N64 Decompilation Project</a></h1>
 
