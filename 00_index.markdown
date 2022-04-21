@@ -8,7 +8,7 @@ permalink: /
 ---
 
 Hi Im Ellie,<br>
-Im a Transgender, BSc Computer Science and Mathematics Undergraduate at the University of Exeter.
+Im a Second Year BSc Computer Science and Mathematics Undergraduate at the University of Exeter.
 
 This is a site to endlessly talk about the projects I have been working on!
 
