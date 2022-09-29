@@ -17,7 +17,7 @@ but this time I saw that [Rainchus](https://github.com/Rainchus) had helped [Nat
 
 Now with a makefile we would be able to rebuild the game if we could convert the game's assembly code into C files. This seemed like a fun challenge which allows me to sharpen my C skills, of which I'm currently taking a University Module in, as well as learn more about MIPS and how N64 games work - which I found a passion for when looking into game memory in the past.
 
-You can keep up with my progress here: [My GitHub Repo for Decompiled C Files](https://github.com/Elisiah/CTwist-Decomp-WIP)
+You can keep up with my progress here: [My GitHub Repo for Decompiled C Files](https://github.com/chameleonTwistRet/chameleonTwistv1.0-JP)
 
 <h3>An Example of how decompile matching code works:</h3>
 
@@ -42,12 +42,15 @@ By knowing this we can very quickly check if our functions have too many or too 
 
 ```c
 // Author Elisiah (Ellie V)
+#define SQ(x) = (x * x)
+#define SUM_OF_SQ(x, y) = SQ(x) + SQ(y)
+
 void func_8002D148(float* a, float* b, float c) {
     float sqrtASquaredPlusBSquared;
     float aSquaredPlusBSquared;
 
-    aSquaredPlusBSquared = (((*a) * (*a) + (*b) * (*b)));
-    if (!(aSquaredPlusBSquared <= (c * c))) {
+    aSquaredPlusBSquared = SUM_OF_SQ(*a, *b);
+    if (!(aSquaredPlusBSquared <= SQ(c))) {
         sqrtASquaredPlusBSquared = func_800DB0B0(aSquaredPlusBSquared);    //sqrt func
         *a = (*a * c) / sqrtASquaredPlusBSquared;
         *b = (*b * c) / sqrtASquaredPlusBSquared;

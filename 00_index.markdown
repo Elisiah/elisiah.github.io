@@ -21,6 +21,6 @@ has been downloaded over 20,000 times. JK+: ![](https://img.shields.io/github/do
 
 <h1><a href="/n64/">N64 Decompilation Project</a></h1>
 
-I also collaborate on the [Chameleon Twist Decompilation Project](https://github.com/Elisiah/CTwist-Decomp-WIP),
-which seeks to rewrite the assembly code of the Nintendo 64 game Chameleon Twist as C code so it can be: modified;
+I also collaborate on the [Chameleon Twist Decompilation Project](https://github.com/chameleonTwistRet/),
+which seeks to rewrite the assembly code of the Nintendo 64 games Chameleon Twist 1 and 2 as C code so they can be: modified;
 understood and recompiled on other hardware.
