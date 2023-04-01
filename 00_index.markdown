@@ -19,8 +19,10 @@ I work as a member of a small team of 4 called [Jump King Plus](https://phoenixx
 The mod and updates are officially endorsed by Nexile (the creators of Jump King). Our mod collection currently
 has been downloaded over 20,000 times. JK+: ![](https://img.shields.io/github/downloads/JumpKingPlus/JumpKingPlus/total?style=flat-square)
 
-<h1><a href="/n64/">N64 Decompilation Project</a></h1>
+<h1><a href="https://elisiah.github.io/DecompProgress">N64 Decompilation Project</a></h1>
 
-I also collaborate on the [Chameleon Twist Decompilation Project](https://github.com/chameleonTwistRet/),
+I also collaborate on the [Chameleon Twist Decompilation Project Github](https://github.com/chameleonTwistRet/),
 which seeks to rewrite the assembly code of the Nintendo 64 games Chameleon Twist 1 and 2 as C code so they can be: modified;
 understood and recompiled on other hardware.
+
+[Click Here](https://elisiah.github.io/DecompProgress) or on the section title to see more information on this project.
