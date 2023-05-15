@@ -9,7 +9,10 @@ permalink: /uni/
 
 This page documents the projects I have undertaken at the University of Exeter.
 
-<h3><a href="/university/2022/07/01/exlean-project.html">ExLean</a></h3>
+<h3>Internship of Research in Interactive Theorem Proving</h3>
+Under Dr. Diego Marmsoler of the University of Exeter - I, and 2 others, worked on creating a formalisation of many automata in Isabelle/HOL. The internship was funded by A2I (Access to Internships) and was an 8 week long project.
+
+<h3>ExLean</h3>
 ExLean is a project founded by Dr. Gihan Marasingha at the University of Exeter. It seeks to teach undergraduate students maths topics through the LEAN Interactive Theorem Prover in a way that enhances their understanding and intuition as well as developing their ability to deal with logic based problems. I am a founding member and admin: organising, taking part in and helping other students with Lean Weekly Work-togethers.
 
 <h3>Exeter Mathematics Study and Support Group</h3>

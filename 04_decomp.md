@@ -21,6 +21,9 @@ The project is hosted on GitHub and is open source. It is currently being worked
 <h3><a href="/decompilation/2023/03/10/ctBlend.html">ctBlend</a></h3>
 - There is an, as yet unpublished, blender tool being worked on by me and another member of the team to allow for the creation of custom levels for Chameleon Twist 1.
 
+<h3><a href="/decompilation/2022/11/12/mod.html">Speedrun Practice Mod</a></h3>
+- Using the Mod hooking resources in the decompilation project, I worked with another member of the team to create a mod for the game that allows speedrunners to practice the game easier.
+
 <h2>Languages and Skillset</h2>
 
 <b>C</b>: Our source code for the game is written in C so it is used for the majority of the project; in addition the N64 sdk is written in C so we use it to interface with the hardware. Modifications for the game also now use C.
