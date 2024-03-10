@@ -8,17 +8,21 @@ permalink: /
 ---
 
 Hi Im Ellie,<br>
-Im a Second Year BSc Computer Science and Mathematics Undergraduate at the University of Exeter.
+Im a Second Year BSc Computer Science Undergraduate at a Russel Group University in England.
 
 Please note that since alot of my work is reverse engineering alot of code I write I cannot post; find my GitHub in the footer.
 
 <b>Here are my two main projects (Please click the title to go to their respective landing pages):</b>
 
-<h1><a href="https://jumpkingplus.github.io/">Jump King Project</a></h1>
+<h1><a href="https://jumpkingplus.github.io/">Jump King Project (Now: Steam Workshop)</a></h1>
 
-I work as a member of a small team of 4 called [Jump King Plus](https://jumpkingplus.github.io/)
+I worked as a member of a small team of 4 called [Jump King Plus](https://jumpkingplus.github.io/)
  to create new updates for the game [Jump King](https://store.steampowered.com/app/1061090/Jump_King/).
-The mod and updates are officially endorsed by Nexile (the creators of Jump King).
+The mod and updates were officially endorsed by Nexile (the creators of Jump King).
+
+As of 2024, after 50,000 downloads the JK+ project and all of it's mods have been merged into the official Jump King Steam Workshop by the game's deevelopment team. This offers better opportunities for other creators to interface with modding utilities, and as a result, the project has been archived.
+
+You can read about Phoenix (the project lead)'s work porting the modding utilities to the official workshop [Here](https://jumpkingplus.github.io/the-good-ending/)
 
 ![](https://img.shields.io/github/downloads/JumpKingPlus/JumpKingPlus/total?style=flat-square)
 
