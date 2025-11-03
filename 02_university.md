@@ -17,3 +17,8 @@ ExLean is a project founded by Dr. Gihan Marasingha at the University of Exeter.
 
 <h3>Exeter Mathematics Study and Support Group</h3>
 Alongside Dr. Gihan Marasingha I am a founding member of the Exeter Mathematics Study and Support Group. I am responsible for the organisation and running of the discord server as well as the graphic design of the logo and upcoming events. The server seeks to be a central hub for students of Mathematics at Exeter to communicate and share knowledge as well as connecting them with lecturers and running regular events.
+
+<h3>UoE Computer Science Society</h3>
+During my time at the University of Exeter I was on the staff team of the Computer Science Society. I was responsible for the organisation and running of events as well as the graphic design of posters and social media posts.
+
+During this time I also attended hackathons organised by the society, as well as playing for the society's football team.

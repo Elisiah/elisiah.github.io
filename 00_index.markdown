@@ -1,38 +1,39 @@
 ---
-# Feel free to add content and custom Front Matter to this file.
-# To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
-
 layout: page
-title: About
+title: About Me
 permalink: /
 ---
 
-Hi Im Ellie,<br>
-Im a Second Year BSc Computer Science Undergraduate at a Russel Group University in England.
+# Hi, I’m Ellie 👋
 
-Please note that since alot of my work is reverse engineering alot of code I write I cannot post; find my GitHub in the footer.
+I’m a **First Class BSc Computer Science Graduate** from the University of Exeter, passionate about **software development, reverse engineering, and data analysis**.  
 
-<b>Here are my two main projects (Please click the title to go to their respective landing pages):</b>
+Since much of my work involves **reverse engineering**, I can’t always post full source code — but here are a few of my key projects with detailed write-ups.
 
-<h1><a href="https://jumpkingplus.github.io/">Jump King Project (Now: Steam Workshop)</a></h1>
+---
+<br/>
+## Featured Projects
 
-I worked as a member of a small team of 4 called [Jump King Plus](https://jumpkingplus.github.io/)
- to create new updates for the game [Jump King](https://store.steampowered.com/app/1061090/Jump_King/).
-The mod and updates were officially endorsed by Nexile (the creators of Jump King).
+<div style="display: flex; flex-wrap: wrap; gap: 1.5rem; justify-content: center;">
 
-As of 2024, after 50,000 downloads the JK+ project and all of it's mods have been merged into the official Jump King Steam Workshop by the game's deevelopment team. This offers better opportunities for other creators to interface with modding utilities, and as a result, the project has been archived.
+<div style="flex: 1 1 300px; max-width: 350px; border: 1px solid #ddd; border-radius: 10px; padding: 1rem; box-shadow: 2px 2px 6px rgba(0,0,0,0.1);">
+  <a href="https://jumpkingplus.github.io/#team"><img src="/assets/jkpluslogo.png" alt="Jump King Plus" style="width:100%; border-radius: 8px;"></a>
+  <h3><a href="https://jumpkingplus.github.io/#team">Jump King Plus</a></h3>
+  <p>Collaborative modding project for the game <em>Jump King</em> using C#. Created gameplay mods and tools including new mechanics and multiplayer, later merged into the official Steam Workshop by Nexile.</p>
+  <img src="https://img.shields.io/github/downloads/JumpKingPlus/JumpKingPlus/total?style=flat-square">
+</div>
 
-You can read about Phoenix (the project lead)'s work porting the modding utilities to the official workshop [Here](https://jumpkingplus.github.io/the-good-ending/)
+<div style="flex: 1 1 300px; max-width: 350px; border: 1px solid #ddd; border-radius: 10px; padding: 1rem; box-shadow: 2px 2px 6px rgba(0,0,0,0.1);">
+  <a href="/decomp/"><img src="/assets/ctwistlogo.png" alt="Chameleon Twist Decompilation" style="width:100%; border-radius: 8px;"></a>
+  <h3><a href="/decomp/">N64 Reverse Engineering</a></h3>
+  <p>Reverse engineering project recreating <em>Chameleon Twist</em> in C to allow modification and recompilation. Includes offshoot projects such as a Blender plugin and gameplay mod.</p>
+  <img src="https://github.com/chameleonTwistRet/chameleonTwistv1.0-JP/actions/workflows/ci.yml/badge.svg">
+</div>
 
-![](https://img.shields.io/github/downloads/JumpKingPlus/JumpKingPlus/total?style=flat-square)
+<div style="flex: 1 1 300px; max-width: 350px; border: 1px solid #ddd; border-radius: 10px; padding: 1rem; box-shadow: 2px 2px 6px rgba(0,0,0,0.1);">
+  <a href="https://siege.rip"><img src="/assets/siegerip.png" alt="Siege.Rip Web Platform" style="width:100%; border-radius: 8px;"></a>
+  <h3><a href="https://siege.rip">Siege.Rip Web Platform</a></h3>
+  <p>Backend engineer and database designer for <em>Siege.Rip</em>, a stats and inventory tracking website for Rainbow Six Siege, featuring RESTful APIs and relational database design in MySQL.</p>
+</div>
 
-<h1><a href="/decomp/">N64 Decompilation Project</a></h1>
-
-I also collaborate on the [Chameleon Twist Decompilation Project Github](https://github.com/chameleonTwistRet/),
-which seeks to rewrite the assembly code of the Nintendo 64 games Chameleon Twist 1 and 2 as C code so they can be: modified;
-understood and recompiled on other hardware.
-
-This project has led to multiple offshoot projects including a [Blender Plugin](decompilation/2023/03/10/ctBlend) and a [Mod For The Game](decompilation/2022/11/12/mod) with a working menu. You can read about these [Here](/decomp/)
-
-<img src="https://github.com/chameleonTwistRet/chameleonTwistv1.0-JP/actions/workflows/ci.yml/badge.svg"> 
-<img src="https://img.shields.io/endpoint?label=Code%20JP&url=https%3A%2F%2Fprogress.deco.mp%2Fdata%2Fchameleontwist%2Fjp%2Fdefault%2F%3Fmode%3Dshield%26measure%3Dfuncs&color=yellow"/> <img src="https://img.shields.io/endpoint?label=All%20JP&url=https%3A%2F%2Fprogress.deco.mp%2Fdata%2Fchameleontwist%2Fjp%2Fdefault%2F%3Fmode%3Dshield%26measure%3Dbytes&color=orange"/>
+</div>
